@@ -8,6 +8,7 @@ public class HibernateApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HibernateApiApplication.class, args);
+	System.out.println("started");
 	}
 
 }
